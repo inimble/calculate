@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "calculate", "calculate\calculate.vcxproj", "{2E843851-D3C4-406B-BF38-AE995F584EAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E843851-D3C4-406B-BF38-AE995F584EAA}.Debug|x64.ActiveCfg = Debug|x64
+		{2E843851-D3C4-406B-BF38-AE995F584EAA}.Debug|x64.Build.0 = Debug|x64
+		{2E843851-D3C4-406B-BF38-AE995F584EAA}.Debug|x86.ActiveCfg = Debug|Win32
+		{2E843851-D3C4-406B-BF38-AE995F584EAA}.Debug|x86.Build.0 = Debug|Win32
+		{2E843851-D3C4-406B-BF38-AE995F584EAA}.Release|x64.ActiveCfg = Release|x64
+		{2E843851-D3C4-406B-BF38-AE995F584EAA}.Release|x64.Build.0 = Release|x64
+		{2E843851-D3C4-406B-BF38-AE995F584EAA}.Release|x86.ActiveCfg = Release|Win32
+		{2E843851-D3C4-406B-BF38-AE995F584EAA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F33460B7-DEB5-4923-9B36-2DB6D9993E9D}
+	EndGlobalSection
+EndGlobal
